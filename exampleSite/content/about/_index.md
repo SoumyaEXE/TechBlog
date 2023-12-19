@@ -1,13 +1,13 @@
 ---
 title: "About Me"
-date: 2019-10-29T13:49:23+06:00
+date: 2023-12-19T9:49:23+06:00
 draft: false
 
 # image
 image: "images/author.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Site Is Under Development"
 
 # type
 type : "about"
